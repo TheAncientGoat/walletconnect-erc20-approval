@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Walletconnect ERC20 Approval
+
+This is a simple react app using `@walletconnect/web3-provider` to demonstrate an issue.
+
+Please ensure that `REACT_APP_INFURA_ID` env is set to a valid infura project 
 
 ## Available Scripts
 
